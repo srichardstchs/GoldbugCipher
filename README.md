@@ -11,5 +11,7 @@ If you are very clever, you might be able to write a program that can decrypt th
 Visit: https://github.com/srichardstchs/GoldbugCipher
 
 Step 1: Download the short and long encrypted messages and save them to your OneDrive.
+
 Step 2: Copy the vb.net program and run it.
+
 Step 3: Crack the code!
