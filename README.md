@@ -1,4 +1,5 @@
 Goldbug Cipher Tasks
+
 The methods that are described in this story have been used to encrypt the following important message.
 
 $%!<]%!<>%.)(/:%]/?!,,(!@%!@%<]~//$(/,)$!]!.$<%>?<.>/=#(//,&%%,).~<%=>%$!.$<%&<%=(%$!.$<%!$]&/<]%!<%,%@%.
